@@ -1,0 +1,85 @@
+{
+  "drinks": [
+    null,
+    {
+      "description": "A rich and creamy coffee with steamed milk foam.",
+      "image": "https://i.postimg.cc/C5ySzTFZ/1.jpg",
+      "name": "Cappuccino",
+      "price": 12,
+      "product_id": "1",
+      "size": "Medium"
+    },
+    {
+      "description": "A strong and bold shot of pure coffee.",
+      "image": "https://i.postimg.cc/HW5TFx2b/2.jpg",
+      "name": "Espresso",
+      "price": 15,
+      "product_id": "2",
+      "size": "Small"
+    },
+    {
+      "description": "A smooth blend of espresso and steamed milk.",
+      "image": "https://i.postimg.cc/nLgtPb9d/6.jpg",
+      "name": "Latte",
+      "price": 13,
+      "product_id": "3",
+      "size": "Large"
+    },
+    {
+      "description": "Espresso diluted with hot water for a milder flavor.",
+      "image": "https://i.postimg.cc/zX7Y1RRH/4.jpg",
+      "name": "Americano",
+      "price": 18,
+      "product_id": "4",
+      "size": "Medium"
+    },
+    {
+      "description": "A chocolate-flavored coffee with whipped cream.",
+      "image": "https://i.postimg.cc/0NbzWs3j/5.jpg",
+      "name": "Mocha",
+      "price": 25,
+      "product_id": "5",
+      "size": "Large"
+    },
+    {
+      "description": "A velvety smooth coffee with microfoam milk.",
+      "image": "https://i.postimg.cc/cHf424cx/6.jpg",
+      "name": "Flat White",
+      "price": 21,
+      "product_id": "6",
+      "size": "Medium"
+    },
+    {
+      "description": "An espresso topped with a small amount of frothy milk.",
+      "image": "https://i.postimg.cc/DwDvzbjf/7.jpg",
+      "name": "Macchiato",
+      "price": 17,
+      "product_id": "7",
+      "size": "Small"
+    },
+    {
+      "description": "A refreshing cold brew coffee served over ice.",
+      "image": "https://i.postimg.cc/KYX6V7pT/9.jpg",
+      "name": "Iced Coffee",
+      "price": 15,
+      "product_id": "8",
+      "size": "Large"
+    },
+    {
+      "description": "A delightful blend of espresso, milk, and caramel syrup.",
+      "image": "https://i.postimg.cc/157PWqZ0/8.jpg",
+      "name": "Caramel Latte",
+      "price": 30,
+      "product_id": "9",
+      "size": "Large"
+    },
+    {
+      "description": "A smooth and sweet coffee brewed cold for hours.",
+      "image": "https://i.postimg.cc/0jrXrrHx/10.jpg",
+      "name": "Cold Brew",
+      "price": 25,
+      "product_id": "10",
+      "size": "Medium"
+    }
+  ]
+}
