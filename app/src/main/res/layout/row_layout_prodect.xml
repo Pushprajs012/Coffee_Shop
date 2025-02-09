@@ -1,0 +1,58 @@
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    card_view:cardCornerRadius="8dp"
+    card_view:cardElevation="4dp"
+    android:id="@+id/cardView">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Coffee Title"
+            android:fontFamily="@font/inter_extrabold"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+            <View
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_height="1dp"/>
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btnCart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/menucart"
+
+                android:contentDescription="Add to Cart" />
+
+    </LinearLayout>        >
+        <TextView
+            android:id="@+id/tvPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Price"
+            android:fontFamily="@font/poppins"
+            android:layout_marginTop="4dp" />
+
+        <ImageView
+            android:id="@+id/ivShoeImage"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="8dp" />
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

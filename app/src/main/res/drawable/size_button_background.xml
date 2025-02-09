@@ -1,0 +1,17 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected State -->
+    <item android:state_selected="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/orange" />
+            <corners android:radius="16dp" /> <!-- Rounded corners -->
+        </shape>
+    </item>
+
+    <!-- Default State -->
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/gray" />
+            <corners android:radius="16dp" /> <!-- Rounded corners -->
+        </shape>
+    </item>
+</selector>

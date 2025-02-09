@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgcolor">#D8CFC4</color>
+    <color name="textcolor">#6F4F37</color>
+    <color name="toolbarcolor">#D8CFC4</color>
+    <color name="btncolor">#6F4F37</color>
+
+
+    <color name="color1">#DFF6FF</color>
+    <color name="color2">#FFEBEB</color>
+    <color name="color3">#E9FFEB</color>
+    <color name="color4">#FFEDEB</color>
+    <color name="color5">#EAE7FF</color>
+
+    <color name="orange">#FF7F50</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="purple">#800080</color>
+
+</resources>
